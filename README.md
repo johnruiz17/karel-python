@@ -1,6 +1,4 @@
-## Title
-Karel the Robot - World Completion Assistant
-
+## Karel the Robot - World Completion Assistant
 <img width="471" alt="Screenshot 2024-08-04 at 9 55 56 PM" src="https://github.com/user-attachments/assets/5f4ad2fd-897e-4e97-8b56-7175c1a0dbe5">
 
 ## Description
